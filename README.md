@@ -25,7 +25,8 @@ Now you see the 'Select PPD File' dialog:
 
 ![The 'Select PPD File' dialog](select_ppd_file.png)
 
-You can find it on this NAS:
+You can find it in this repo: <xrxC7000.ppd>,
+but also on this NAS:
 
 ![The NAS with the PPD file](which_nas.png)
 
